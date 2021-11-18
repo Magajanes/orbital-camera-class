@@ -5,3 +5,5 @@ Shows some of Unity 3D tools and components such as terrain, navMesh and navMesh
 The goal is to create an orbital camera from scratch using mathematical concepts of analytical geometry.
 
 Engine version - Unity 2021.1.24f1
+
+To download go to Code -> Download zip
